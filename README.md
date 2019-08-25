@@ -7,6 +7,6 @@ It's harder than it looks like! :smirk:
 
 - Most of the code I wrote following official Phaser.js tutorial: [https://phaser.io/tutorials/making-your-first-phaser-3-game/part1](https://phaser.io/tutorials/making-your-first-phaser-3-game/part1)
 
-- To play the game you will need a runing web server (get something simple like Chrome Web Server).
+- To play the game you will need a runing web server (get something simple like Web Server for Chrome).
 
 ![igrica](screenshots/screenshot.png)
